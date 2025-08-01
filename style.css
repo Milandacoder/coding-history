@@ -1,0 +1,11 @@
+
+/* vw: Viewport width */
+body {
+    text-align: center;
+    background: black;
+    color: white;
+
+}
+img {
+    width: 100vw
+}
